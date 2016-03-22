@@ -47,6 +47,6 @@ mso-position-horizontal-relative:text;mso-position-vertical:absolute;
 mso-position-vertical-relative:text'>
 <v:imagedata src="file:///C:\DOCUME~1\bmathews\LOCALS~1\Temp\msohtml1\01\clip_image001.jpg"
 o:title="christmas letter signatures" />
-</v:shape><![endif]--><!--[if !vml]--><span style="position: absolute; z-index: -1; left: 0px; margin-left: 12px; margin-top: 38px; width: 566px; height: 341px;"><img width="566" height="341" v:shapes="_x0000_s1026" src="file:///C:/DOCUME~1/bmathews/LOCALS~1/Temp/msohtml1/01/clip_image002.jpg" alt="" /></span><!--[endif]--><span style="font-family: &quot;Bookman Old Style&quot;;">Love Ben,&nbsp; Sonia, Katrina, Samuel, and Sarah<o:p></o:p></span></p>
+</v:shape><![endif]--><!--[if !vml]--><span style="position: absolute; z-index: -1; left: 0px; margin-left: 12px; margin-top: 38px; width: 566px; height: 341px;">___img width="566" height="341" v:shapes="_x0000_s1026" src="file:///C:/DOCUME~1/bmathews/LOCALS~1/Temp/msohtml1/01/clip_image002.jpg" alt="" /></span><!--[endif]--><span style="font-family: &quot;Bookman Old Style&quot;;">Love Ben,&nbsp; Sonia, Katrina, Samuel, and Sarah<o:p></o:p></span></p>
 <p>&nbsp;</p>
 <p>[bg|Christmast2007]</p>

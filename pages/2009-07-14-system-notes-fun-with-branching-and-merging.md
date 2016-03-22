@@ -60,7 +60,7 @@ o  changeset:   0:376cbd5c11ae
 
 </pre>
 <p />
-This gives us a TortoiseHg changelog like this <br /><img width="232" alt="simplebranch.png" src="http://mathews2000.com/drupal/files/simplebranch.png" height="66" />
+This gives us a TortoiseHg changelog like this <br />___img width="232" alt="simplebranch.png" src="http://mathews2000.com/drupal/files/simplebranch.png" height="66" />
 <p />
 <h1><a name="Complications"></a> Complications </h1>
  Nothing comes free in life, and branching does have its problems. There is some complexity tracking which changes are where and eventually, those parallel universes have to be merged back together.
@@ -121,7 +121,7 @@ adding manifests
 adding file changes
 added 2 changesets with 2 changes to 1 files
 
-</pre> <img width="320" alt="mergeconflicts.png" src="http://mathews2000.com/drupal/files/mergeconflicts.png" height="96" />
+</pre> ___img width="320" alt="mergeconflicts.png" src="http://mathews2000.com/drupal/files/mergeconflicts.png" height="96" />
 <p />
 Using this method, your changelog will start to get a lot of these loops in it. A couple times doing this and it gets frustrating. I've heard some of this frustration and sympathize with you. Frustration naturally begets shortcuts like not compiling a merge or testing completely. Let us look at an easier alternative using branches.
 <p />
@@ -161,7 +161,7 @@ L:\illustration2\client1&#62;hg merge
 merging test.txt
 0 files updated, 1 files merged, 0 files removed, 0 files unresolved
 (branch merge, don&#39;t forget to commit)
-</pre> <img width="224" alt="branchreverseintegration.png" src="http://mathews2000.com/drupal/files/branchreverseintegration.png" height="213" />
+</pre> ___img width="224" alt="branchreverseintegration.png" src="http://mathews2000.com/drupal/files/branchreverseintegration.png" height="213" />
 <p />
 Eventually, you have finished with this branch and are ready to merge it back to the mainline. Switch to the mainline and merge the branch into it.
 
@@ -175,4 +175,4 @@ merging test.txt
 (branch merge, don&#39;t forget to commit)
 
 L:\illustration2\client1&#62;hg commit
-</pre> <img width="392" alt="branchend.png" src="http://mathews2000.com/drupal/files/branchend.png" height="283" />
+</pre> ___img width="392" alt="branchend.png" src="http://mathews2000.com/drupal/files/branchend.png" height="283" />

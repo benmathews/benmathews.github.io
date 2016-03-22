@@ -5,7 +5,7 @@ created: 1230292313
 categories:
 - christmas
 ---
-<p><img alt="" src="http://mathews2000.com/drupal/files/NovDec2008_115.JPG" /></p>
+<p>___img alt="" src="http://mathews2000.com/drupal/files/NovDec2008_115.JPG" /></p>
 <p>Dear Family and Friends,<br />
 <br />
 Here it is Christmas night and I haven&rsquo;t written a letter yet.&nbsp; 2007 was so busy that Sonia and I intentionally slowed down this year.&nbsp; We still worked in a long camping trip, my brother&rsquo;s wedding, and a couple trips to California for Sonia to visit with her parents and sisters.&nbsp; Our big events this year were hosting the Burymski Thanksgiving.&nbsp; People keep getting married and having children and our house was filled to bursting.&nbsp; Tomorrow, the Mathews will be gathering for a weekend family reunion.&nbsp; Somehow, we will find a bed for everyone.&nbsp; We had a great time with the Burymskis and anticipate having an equally good time with the Mathews.<br />
