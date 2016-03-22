@@ -12,7 +12,7 @@ class BlogIndex extends React.Component {
     const pageLinks = []
     // Sort pages.
     const sortedPages = sortBy(this.props.route.pages, (page) =>
-      access(page, 'data.date')
+      access(page, 'data.created')
     ).reverse()
     sortedPages.forEach((page) => {
       if (access(page, 'file.ext') === 'md') {
@@ -37,17 +37,7 @@ class BlogIndex extends React.Component {
               marginBottom: rhythm(2.5),
             }}
           >
-            <img
-              src="./kyle-round-small-pantheon.jpg"
-              style={{
-                float: 'left',
-                marginRight: rhythm(1/4),
-                marginBottom: 0,
-                width: rhythm(2),
-                height: rhythm(2),
-              }}
-            />
-            Written by <strong>{config.authorName}</strong> who lives and works in San Francisco building useful things. <a href="https://twitter.com/kylemathews">You should follow him on Twitter</a>
+            Written by <strong>{config.authorName}</strong>. 
           </p>
           <ul>
             {pageLinks}
@@ -63,3 +53,14 @@ BlogIndex.propTypes = {
 }
 
 export default BlogIndex
+
+            // <img
+            //   src="./kyle-round-small-pantheon.jpg"
+            //   style={{
+            //     float: 'left',
+            //     marginRight: rhythm(1/4),
+            //     marginBottom: 0,
+            //     width: rhythm(2),
+            //     height: rhythm(2),
+            //   }}
+            // />

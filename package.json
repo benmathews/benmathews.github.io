@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/gatsbyjs/gatsby-starter-blog#readme",
   "dependencies": {
+    "gh-pages": "^0.11.0",
     "lodash": "^4.5.0",
     "moment": "^2.11.2",
     "react": "^0.14.7",

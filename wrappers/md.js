@@ -13,10 +13,17 @@ class MarkdownWrapper extends React.Component {
     const { route } = this.props
     const post = route.page.data
 
+      let categories
+      if (post.categories){
+	  categories = post.categories.map((category) =>
+					     <li style={{display:"inline-block", marginRight:rhythm(0.8), fontSize:"14px"}} >{category}</li>)
+      }
+      
     return (
       <DocumentTitle title={`${post.title} | ${config.blogTitle}`}>
         <div className="markdown">
-          <h1>{post.title}</h1>
+            <h1>{post.title}</h1>
+	    <ul style={{listStyle:"none"}}>{categories}</ul>
           <div dangerouslySetInnerHTML={{ __html: post.body }}/>
           <em
             style={{
@@ -24,7 +31,7 @@ class MarkdownWrapper extends React.Component {
               marginBottom: rhythm(2),
             }}
           >
-            Posted {moment(post.date).format('MMMM D, YYYY')}
+            Posted {moment.unix(post.created).format('MMMM D, YYYY')}
           </em>
           <hr
             style={{
@@ -33,17 +40,7 @@ class MarkdownWrapper extends React.Component {
           />
           <ReadNext post={post} pages={route.pages} />
           <p>
-            <img
-              src={link('/kyle-round-small-pantheon.jpg')}
-              style={{
-                float: 'left',
-                marginRight: rhythm(1/4),
-                marginBottom: 0,
-                width: rhythm(2),
-                height: rhythm(2),
-              }}
-            />
-            <strong>{config.authorName}</strong> lives and works in San Francisco building useful things. <a href="https://twitter.com/kylemathews">You should follow him on Twitter</a>
+            Written by <strong>{config.authorName}</strong>. 
           </p>
         </div>
       </DocumentTitle>
@@ -56,3 +53,14 @@ MarkdownWrapper.propTypes = {
 }
 
 export default MarkdownWrapper
+
+            // <img
+            //   src={link('/kyle-round-small-pantheon.jpg')}
+            //   style={{
+            //     float: 'left',
+            //     marginRight: rhythm(1/4),
+            //     marginBottom: 0,
+            //     width: rhythm(2),
+            //     height: rhythm(2),
+            //   }}
+            // />
