@@ -45,7 +45,7 @@ I looked at the cost effectiveness of purchasing the time-share from two perspec
 ### Time share vs. other vacation options
 
 I compared our current vacationing with staying in a hotel equivalent to the time-share and purchasing the time-share. In the first two options, I invested the 8900 at a 10% return. We typically stay about two nights a year in a &ldquo;nice&rdquo; hotel, which is what I based the first scenario on. After 10 years,
-<ul type="disc" style="margin-top: 0in;">
+
 * our current vacationing would result in assets of $22,000
 * staying in equivalent motels for a week would give us assets of $6,500
 * purchasing the time share would use up the $8900 and cost us an additional $13000

@@ -16,11 +16,11 @@ categories:
 <p>Later that day, I went to my bedroom when no one was around and knelt down in prayer.&nbsp;I poured out my desires and feelings to the Lord.&nbsp;After a couple minutes of prayer, I received the answer that I desired.&nbsp;Joseph Smith received a Godly visit.&nbsp;Others receive visions or hear promptings from the Lord.&nbsp;I had none of those, only a feeling of warmth and peace that removed any doubt I had.&nbsp;&nbsp;</p>
 <p>Like any learning and growing experience, my testimony was embryonic, but I had one.&nbsp;With that testimony, I went back to my mission and was able to truthfully tell people that I knew that the Gospel of my Lord Jesus Christ had been restored to the earth.&nbsp;After serving my two years as a missionary, I returned home, finished my bachelors degree, married a wonderful woman, and had a couple children.</p>
 <p>The testimony that I received in prayer while kneeling on the MTC floor has stayed with me and been built upon.&nbsp;</p>
-<ul type="disc">
-    <li>I know      that Jesus Christ is directs the Church of Jesus Christ of Latter-Day      Saints.</li>
-    <li>I know      that Joseph Smith saw God and Jesus Christ and received instructions from      them.</li>
-    <li>I know      that Joseph Smith was a prophet of God and was called to restore the      Lord&rsquo;s Gospel to the earth.</li>
-    <li>I know      that Joseph Smith was directed to Book of Mormon written on golden plates      and buried in the Hill Cumorah.&nbsp;</li>
-    <li>I know      that through the power of God, he translated those plates and published      them to the world as a second witness to the world of Jesus Christ.</li>
-    <li>I know      that the prophetic keys have been passed on in an orderly manner as      directed by God and that Thomas Monson currently is a prophet, seer, and      revalator.</li>
-</ul>
+
+* I know      that Jesus Christ is directs the Church of Jesus Christ of Latter-Day      Saints.
+* I know      that Joseph Smith saw God and Jesus Christ and received instructions from      them.
+* I know      that Joseph Smith was a prophet of God and was called to restore the      Lord&rsquo;s Gospel to the earth.
+* I know      that Joseph Smith was directed to Book of Mormon written on golden plates      and buried in the Hill Cumorah.&nbsp;
+* I know      that through the power of God, he translated those plates and published      them to the world as a second witness to the world of Jesus Christ.
+* I know      that the prophetic keys have been passed on in an orderly manner as      directed by God and that Thomas Monson currently is a prophet, seer, and      revalator.
+

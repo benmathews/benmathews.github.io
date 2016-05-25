@@ -8,10 +8,10 @@ categories:
 <p>The candidates are listed in the order I talked with them.</p>
 <h1>Candidates</h1>
 <p>Lehi free press review of the candidates -</p>
-<ul>
-    <li><a href="http://www.heraldextra.com/content/view/236003/16/">http://www.heraldextra.com/content/view/236003/16/</a></li>
-    <li><a href="http://www.heraldextra.com/content/view/234814/16/">http://www.heraldextra.com/content/view/234814/16/</a><o:p></o:p></li>
-</ul>
+
+* <a href="http://www.heraldextra.com/content/view/236003/16/">http://www.heraldextra.com/content/view/236003/16/</a>
+* <a href="http://www.heraldextra.com/content/view/234814/16/">http://www.heraldextra.com/content/view/234814/16/</a><o:p></o:p>
+
 <h2>&nbsp;<o:p></o:p>Johnny Revill (incumbent)</h2>
 <p class="MsoNormal"><a href="mailto:jrevill@centaurprint.com">jrevill@centaurprint.com</a> &ndash; 318-9188</p>
 <p class="MsoNormal">I felt a personal connection with Johnny and trusted him.<span style="">&nbsp; </span>He seemed to have a good grasp of the issues and we talked about growth and his feeling that city parks were not adequate.<span style="">&nbsp; </span>I personally feel that Lehi&rsquo;s park number and quality is good so thought this objective was out of place and a misuse of funds.<span style="">&nbsp; </span>A friend thought that he was a follower on an issue with firing the municipal judge.<span style="">&nbsp; </span>He was the first candidate that I talked to, so did not quiz him in as much depth as some of the other candidates.</p>
@@ -50,12 +50,12 @@ categories:
 <p class="MsoNormal">Julian was not present.</p>
 <p class="MsoNormal"><o:p>&nbsp;</o:p>Recommendation &ndash; NO</p>
 <h1>Issues</h1>
-<ul>
-    <li><st1:place w:st="on"><st1:placename w:st="on">Legacy</st1:placename>  <st1:placetype w:st="on">Center</st1:placetype></st1:place></li>
-    <li>Transportation</li>
-    <li>Tax Base/Commerce</li>
-    <li><st1:place w:st="on"><st1:placename w:st="on">Lehi</st1:placename>  <st1:placetype w:st="on">City</st1:placetype></st1:place> Power</li>
-    <li>Downtown revitalization</li>
-    <li>Parks</li>
-    <li>New form of government</li>
-</ul>
+
+* <st1:place w:st="on"><st1:placename w:st="on">Legacy</st1:placename>  <st1:placetype w:st="on">Center</st1:placetype></st1:place>
+* Transportation
+* Tax Base/Commerce
+* <st1:place w:st="on"><st1:placename w:st="on">Lehi</st1:placename>  <st1:placetype w:st="on">City</st1:placetype></st1:place> Power
+* Downtown revitalization
+* Parks
+* New form of government
+

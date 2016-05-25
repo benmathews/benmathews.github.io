@@ -9,15 +9,15 @@ categories:
 I taught a lesson on "Protecting yourself and your family from pornography" today at church.  Below are the resources I handed out and my lesson notes.  Attached is a pdf of the slides.
 <!--break-->
 <h2>Resources</h2>
-<ul><li>http://combatingpornography.org
-<li>http://lightedcandle.org
-<li>https://tech.lds.org/wiki/index.php/Family_Safety
-<li>A Parents Guide (on lds.org)
-</ul>
+
+* http://lightedcandle.org
+* https://tech.lds.org/wiki/index.php/Family_Safety
+* A Parents Guide (on lds.org)
+
 <h2>Internet Filters</h2>
-<ul><li>http://k9webprotection.com
-<li>http://opendns.com
-</ul>
+
+* http://opendns.com
+
 <h2>Lesson Notes</h2>
 <h3>Introduction</h3>
 <P>Is your wife beautiful?</P>
@@ -81,19 +81,15 @@ the purposes of sexual excitement and erotic satisfaction.</P>
 appreciate, love, and cherish your wife?</P>
 <P>Turn it off</P>
 <h3>Quiz</h3>
-<UL>
-	<LI>Do your children know 
-	<UL>
-		<LI>what pornography is?
-		<LI>why pornography is bad?
-		<LI>what to do when they encounter pornography?
-	</UL>
-	<LI>What happens in your home if 
-	<UL>
-		<LI>someone searches for pornography?
-		<LI>pornography is accidentally encountered?
-	</UL>
-</UL>
+
+* Do your children know 
+** what pornography is?
+** why pornography is bad?
+** what to do when they encounter pornography?
+* What happens in your home if 
+** someone searches for pornography?
+** pornography is accidentally encountered?
+
 <h3>Worlds standards changing</h3>
 <P >&ldquo;Don&rsquo;t see R-rated movies&rdquo;
 - President Spencer W. Kimball - 1986</P>
@@ -109,45 +105,35 @@ ago.&quot;
 </P>
 <h3>% R-13 movies increasing</h3>
 <h3>Effects from Social Science</h3>
-<UL>
-	<LI>ieased callousness toward wo
-	<LI>trivialization of rape as a criminal offense;
-	<LI>distorted perceptions about sexuality;
-	<LI>increased appetite for more deviant and bizarre type
-	pornography (escalation and addiction);
-	<LI>led to a devaluation of monogamy;
-	<LI>Effects from Social Science
-	<LI>decreased satisfaction with a partner&rsquo;s sexual performance, affection, and physical appearance;
-	<LI>doubts about the value of marriage;
-	<LI>decreased desire to have children; and
-	<LI>viewing non-monogamous relationships as normal and natural behavior.
-</UL>
+* ieased callousness toward wo
+* trivialization of rape as a criminal offense;
+* distorted perceptions about sexuality;
+* increased appetite for more deviant and bizarre type	pornography (escalation and addiction);
+* led to a devaluation of monogamy;
+* Effects from Social Science
+* decreased satisfaction with a partner&rsquo;s sexual performance, affection, and physical appearance;
+* doubts about the value of marriage;
+* decreased desire to have children; and
+* viewing non-monogamous relationships as normal and natural behavior.
+
 <P>Not the results we want for ourselves and our families</P>
 <h3>Protecting Ourselves and Families</h3>
-<UL>
-	<LI>Put on the &ldquo;Whole Armour of God&rdquo;
-	<UL>
-		<LI>Multi-layered defense
-	</UL>
-	<LI>Model
-	<LI>Teach
-	<LI>Love
-	<LI>Protect them
-	<UL>
-		<LI>Physical means
-		<LI>Technology
-	</UL>
-</UL>
+* Put on the &ldquo;Whole Armour of God&rdquo;
+** Multi-layered defense
+* Model
+* Teach
+* Love
+* Protect them
+** Physical means
+** Technology
+
 <h3>We have to teach</h3>
-<UL>
-	<LI>Our home is our castle
-	<LI>Our children 
-	<UL>
-		<LI>Leave for school, etc.
-		<LI>Grow up
-	</UL>
-	<LI>Ability to make moral decisions crucial
-</UL>
+* Our home is our castle
+* Our children 
+** Leave for school, etc.
+** Grow up
+* Ability to make moral decisions crucial
+
 <h2 >Five years</h3>
 <P>The world will teach our children if we do not, and children are
 capable of learning all the world will teach them at a very young

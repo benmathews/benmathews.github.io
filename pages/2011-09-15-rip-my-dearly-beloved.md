@@ -12,4 +12,4 @@ RIP my Altima.
 
 My neck is sore and the children are fine. Considering the damage to the car, we came out of it rather well.
 
-___img src="http://www.mathews2000.com/drupal/files/IMG_20110915_175938.jpg" rel="lightbox" width="400">
+![](http://www.mathews2000.com/drupal/files/IMG_20110915_175938.jpg)

@@ -15,55 +15,55 @@ categories:
     <ol>
         <li>
         <p style="margin-bottom: 0in;">Adam  &amp; Eve &ndash; 		interdependence &amp; equality</p>
-        </li>
+        
         <li>
         <p style="margin-bottom: 0in;">Equality, not hierarchy</p>
-        </li>
+        
         <li>
         <p style="margin-bottom: 0in;">Oneness</p>
-        </li>
+        
     </ol>
-    </li>
+    
     <li>
     <p style="margin-bottom: 0in;">Sacred responsibility of a father</p>
     <ol>
         <li>
         <p style="margin-bottom: 0in;">preside</p>
-        </li>
+        
         <li>
         <p style="margin-bottom: 0in;">provide</p>
-        </li>
+        
     </ol>
-    </li>
+    
     <li>
     <p style="margin-bottom: 0in;"><a href="http://scriptures.lds.org/en/dc/121/33-40#33">DC 	121:39-43</a> &ndash; no power or influence</p>
-    </li>
+    
     <li>
     <p style="margin-bottom: 0in;"><a href="http://scriptures.lds.org/en/mark/9">Mark 	9:35</a> &ndash; first shall be last</p>
-    </li>
+    
     <li>
     <p style="margin-bottom: 0in;">Principle centered family 	leadership</p>
     <ol>
         <li>
         <p style="margin-bottom: 0in;">Modeling</p>
-        </li>
+        
         <li>
         <p style="margin-bottom: 0in;">Mentoring</p>
-        </li>
+        
         <li>
         <p style="margin-bottom: 0in;">Organizing</p>
-        </li>
+        
         <li>
         <p style="margin-bottom: 0in;">Teaching</p>
-        </li>
+        
     </ol>
-    </li>
+    
     <li>
     <p style="margin-bottom: 0in;">important versus urgent</p>
-    </li>
+    
     <li>
     <p style="margin-bottom: 0in;">mistakes</p>
-    </li>
+    
 </ol>
 <p style="margin-bottom: 0in;">&nbsp;</p>
 <p style="margin-bottom: 0in;">It is always a good sign when the material generates discussion, but that left me without time to adequately explore the last couple points.  There was a good spirit and hopefully everyone took away from the class a reminder how important fatherhood is and some tools to be good at it</p>

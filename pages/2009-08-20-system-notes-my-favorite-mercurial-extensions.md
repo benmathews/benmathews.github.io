@@ -6,15 +6,15 @@ categories:
 - system notes
 ---
 <p />
-<a name="foswikiTOC"></a><div class="foswikiToc"> <ul>
+<a name="foswikiTOC"></a><div class="foswikiToc"> 
 
 <li> <a href="#alias_user_defined_command_alias"> alias - user-defined command aliases</a>
-</li> <li> <a href="#pbranch_Collaborative_and_or_lon"> pbranch - Collaborative and/or long-term patch development and maintenance</a>
-</li> <li> <a href="#purge_all_files_and_dirs_in_the"> purge - all files and dirs in the repository that are not being tracked by Mercurial</a>
+ <li> <a href="#pbranch_Collaborative_and_or_lon"> pbranch - Collaborative and/or long-term patch development and maintenance</a>
+ <li> <a href="#purge_all_files_and_dirs_in_the"> purge - all files and dirs in the repository that are not being tracked by Mercurial</a>
 </li> <li> <a href="#convert_Convert_repositories_fro"> convert - Convert repositories from other SCMs into Mercurial</a>
 
 </li> <li> <a href="#share_Share_repository_history_b"> share - Share repository history between multiple repos</a>
-</li></ul> 
+</li>
 </div>
 <p />
 <h1><a name="alias_user_defined_command_alias"></a> <a href="http://mercurial.selenic.com/wiki/AliasExtension" target="_top">alias</a> - user-defined command aliases </h1>

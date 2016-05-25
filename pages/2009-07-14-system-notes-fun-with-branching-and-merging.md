@@ -9,12 +9,12 @@ categories:
 
 There have been some emails flying around discussing making branches so we can &ldquo;isolate changes.&rdquo; I thought some discussion of what a branch is and what it is good for was warranted.
 <p />
-A branch isn&rsquo;t anything complicated. It is simply a way for to make some changes without sharing them with everyone else. Jeff Atwood <a href="http://www.codinghorror.com/blog/archives/000968.html" target="_top">describes branching as a parallel universe</a>. "They're places where, for whatever reason, history didn't go quite the same way as it did in your universe." In our company, we could have used a "parallel universe" to: <ul>
-<li> Upgrade to a new compiler while everyone else works on the old one.
+A branch isn&rsquo;t anything complicated. It is simply a way for to make some changes without sharing them with everyone else. Jeff Atwood <a href="http://www.codinghorror.com/blog/archives/000968.html" target="_top">describes branching as a parallel universe</a>. "They're places where, for whatever reason, history didn't go quite the same way as it did in your universe." In our company, we could have used a "parallel universe" to: 
 
-</li> <li> Add in a new graphics engine without lots of ugly preprocessor macros
-</li> <li> Develop a new feature that is poorly defined and therefore risky
-</li></ul> 
+*  Upgrade to a new compiler while everyone else works on the old one.
+*  Add in a new graphics engine without lots of ugly preprocessor macros
+*  Develop a new feature that is poorly defined and therefore risky
+
 Branching would have simplified the contention developers from different parts of the company faced.
 <p />
 To get technical, in mercurial anytime two changesets are committed against a common parent, a branch is created. A simple illustration shows how this works.
