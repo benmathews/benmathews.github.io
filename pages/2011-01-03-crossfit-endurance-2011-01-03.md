@@ -8,10 +8,9 @@ categories:
 ---
 http://www.crossfitendurance.com/4x5min-2/
 
-interval:speed
-1:8 mph
-2:8 mph
-3:8.4 mph
-4:8.7 mph
+1. 8 mph
+2. 8 mph
+3. 8.4 mph
+4. 8.7 mph
 
 total 2.75 miles
